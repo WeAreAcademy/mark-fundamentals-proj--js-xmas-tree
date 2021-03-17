@@ -130,7 +130,7 @@ Received: undefined
 
 This gives us lots of helpful information:
 
-1. Which assertion is failing: it's the one on line 14
+1. Which assertion is failing: it's the one on line 15
 2. What the test was expecting to see: `["____#____", "____#____"]`
 3. What the test actually received: `undefined`
 
